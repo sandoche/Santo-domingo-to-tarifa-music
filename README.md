@@ -6,7 +6,7 @@ Music made in Dominican Republic, a tropical house with merengue beats
 - [x] Add beats
 - [x] Add chords
 - [x] Create melody
-- [ ] Try to improve melody
+- [x] Try to improve melody
 - [ ] Add bass
 - [ ] Add other instrument
 - [ ] Add effects
