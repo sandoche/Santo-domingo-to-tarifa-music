@@ -9,6 +9,9 @@ Music made in Dominican Republic, a tropical house with merengue beats
 - [x] Try to improve melody
 - [x] Add bass
 - [x] Add other instrument
+- [x] Improve kick
+- [x] Create other variantes based on the main pattern
+- [x] Create the structure
 - [ ] Rename tracks in playlist
 - [ ] Rename bridge to something else
 - [ ] Rename intro to chords & beats
@@ -17,8 +20,6 @@ Music made in Dominican Republic, a tropical house with merengue beats
 - [ ] Equalize elements
 - [ ] Add outro
 - [ ] Update structure
-- [x] Improve kick
-- [x] Create other variantes based on the main pattern
-- [x] Create the structure
 - [ ] Add transitions
 - [ ] Add automations
+- [ ] Improve drums
