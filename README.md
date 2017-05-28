@@ -18,7 +18,7 @@ Music made in Dominican Republic, a tropical house with merengue beats
 - [x] Use chords and beats between each change
 - [x] Add outro 
 - [x] Update structure
-- [ ] Add transitions
+- [x] Add transitions
 - [ ] Add effects (éloignement etc)
 - [ ] Equalize elements
 - [ ] Add automations
