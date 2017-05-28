@@ -20,6 +20,9 @@ Music made in Dominican Republic, a tropical house with merengue beats
 - [x] Update structure
 - [x] Add transitions
 - [x] Add effects
-- [ ] Add automations
-- [ ] Equalize elements
+- [x] Add automations
+- [x] Equalize elements
 - [ ] Improve drums
+- [ ] Remastering
+- [ ] Check with Dorian
+
