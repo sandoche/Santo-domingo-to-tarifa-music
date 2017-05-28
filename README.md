@@ -15,11 +15,11 @@ Music made in Dominican Republic, a tropical house with merengue beats
 - [x] Rename tracks in playlist
 - [x] Rename bridge to something else
 - [x] Rename intro to chords & beats
-- [ ] Use chords and beats between each change
-- [ ] Add effects
-- [ ] Equalize elements
-- [ ] Add outro
+- [x] Use chords and beats between each change
+- [ ] Add outro 
 - [ ] Update structure
 - [ ] Add transitions
+- [ ] Add effects
+- [ ] Equalize elements
 - [ ] Add automations
 - [ ] Improve drums
