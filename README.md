@@ -22,7 +22,14 @@ Music made in Dominican Republic, a tropical house with merengue beats
 - [x] Add effects
 - [x] Add automations
 - [x] Equalize elements
-- [ ] Improve drums
+- [x] Check with Dorian
+- [ ] Reduce the beggining
+- [ ] Change BPM to 130
+- [ ] Refactor beats
+- [ ] Add a bit of variation of beats
+- [ ] Add beats progressively
+- [ ] Change the kick
+- [ ] Rework the transitions
+- [ ] Add drums before the drop
 - [ ] Remastering
-- [ ] Check with Dorian
 
