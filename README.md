@@ -27,7 +27,7 @@ There are two files, one works on windows and the other in mac, I changed OS dur
 - [x] Copy all the patterns
 - [x] Export / Import settings of each instruments
 - [ ] Redo to playlist 
-- [ ] Redo effects
+- [x] Redo effects
 - [ ] Redo the automations
 - [ ] Add and improve transitions
 - [x] Change BPM to 130
