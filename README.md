@@ -34,8 +34,8 @@ There are two files, one works on windows and the other in mac, I changed OS dur
 - [x] Add a bit of variation of beats
 - [x] Add beats progressively
 - [x] Change the kick
-- [ ] Add and improve transitions
-- [ ] Rework the transitions
+- [x] Add and improve transitions
+- [x] Rework the transitions
 - [ ] Add drums before the drop
 - [ ] Update presets of noise
 - [ ] Remastering
