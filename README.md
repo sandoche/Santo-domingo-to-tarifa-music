@@ -24,8 +24,8 @@ There are two files, one works on windows and the other in mac, I changed OS dur
 - [x] Add automations
 - [x] Equalize elements
 - [x] Check with Dorian
-- [ ] Copy all the patterns
-- [ ] Export / Import settings of each instruments
+- [x] Copy all the patterns
+- [x] Export / Import settings of each instruments
 - [ ] Redo to playlist 
 - [ ] Redo effects
 - [ ] Redo the automations
@@ -37,4 +37,5 @@ There are two files, one works on windows and the other in mac, I changed OS dur
 - [x] Change the kick
 - [ ] Rework the transitions
 - [ ] Add drums before the drop
+- [ ] Update presets of noise
 - [ ] Remastering
