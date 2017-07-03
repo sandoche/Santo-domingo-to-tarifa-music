@@ -36,6 +36,6 @@ There are two files, one works on windows and the other in mac, I changed OS dur
 - [x] Change the kick
 - [x] Add and improve transitions
 - [x] Rework the transitions
-- [ ] Add drums before the drop
+- [x] Add drums before the drop
 - [ ] Update presets of noise
 - [ ] Remastering
