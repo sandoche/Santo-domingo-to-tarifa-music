@@ -1,0 +1,32 @@
+1 - 13 Bass chords
+13 - 21 intro
+21- 29 verse
+29 - 33 build
+34 - 46 chorus
+46 - 50 bass chorus
+50 - 58 verse 2
+59 - 75 chorus
+75 - 87 chorus 2
+88 - 96 chorus 3
+96 - 100 bass chords
+100 - 108 verse 2
+108 - 128 verse
+
+
+maracas:
+1-25
+42 - 54
+59 - 67
+104 - 120
+
+maracas 2:
+25 - 33
+34 - 42
+54 - 58
+83 - 87
+88 - 104
+
+beats:
+33 - 34
+58 - 59
+87 - 87,5

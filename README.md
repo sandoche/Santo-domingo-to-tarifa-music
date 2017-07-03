@@ -1,5 +1,6 @@
 # DR-HIT
-Music made in Dominican Republic, a tropical house with merengue beats
+Music made in Dominican Republic, a tropical house with merengue beats.
+There are two files, one works on windows and the other in mac, I changed OS during this project, the latest version is the MainWin.flp.
 
 ## To do
 
@@ -23,13 +24,17 @@ Music made in Dominican Republic, a tropical house with merengue beats
 - [x] Add automations
 - [x] Equalize elements
 - [x] Check with Dorian
-- [ ] Reduce the beggining
-- [ ] Change BPM to 130
+- [ ] Copy all the patterns
+- [ ] Export / Import settings of each instruments
+- [ ] Redo to playlist 
+- [ ] Redo effects
+- [ ] Redo the automations
+- [ ] Add and improve transitions
+- [x] Change BPM to 130
 - [ ] Refactor beats
 - [ ] Add a bit of variation of beats
 - [ ] Add beats progressively
-- [ ] Change the kick
+- [x] Change the kick
 - [ ] Rework the transitions
 - [ ] Add drums before the drop
 - [ ] Remastering
-
