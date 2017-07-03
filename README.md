@@ -26,15 +26,15 @@ There are two files, one works on windows and the other in mac, I changed OS dur
 - [x] Check with Dorian
 - [x] Copy all the patterns
 - [x] Export / Import settings of each instruments
-- [ ] Redo to playlist 
+- [x] Redo to playlist 
 - [x] Redo effects
-- [ ] Redo the automations
-- [ ] Add and improve transitions
+- [x] Redo the automations
 - [x] Change BPM to 130
-- [ ] Refactor beats
-- [ ] Add a bit of variation of beats
-- [ ] Add beats progressively
+- [x] Refactor beats
+- [x] Add a bit of variation of beats
+- [x] Add beats progressively
 - [x] Change the kick
+- [ ] Add and improve transitions
 - [ ] Rework the transitions
 - [ ] Add drums before the drop
 - [ ] Update presets of noise
