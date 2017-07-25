@@ -1,4 +1,4 @@
-# DR-HIT
+ # DR-HIT
 Music made in Dominican Republic, a tropical house with merengue beats.
 There are two files, one works on windows and the other in mac, I changed OS during this project, the latest version is the MainWin.flp.
 
@@ -37,5 +37,9 @@ There are two files, one works on windows and the other in mac, I changed OS dur
 - [x] Add and improve transitions
 - [x] Rework the transitions
 - [x] Add drums before the drop
-- [ ] Update presets of noise
+- [x] Update presets of noise
+- [ ] Assign new kick to old patterns 
+- [ ] Copy lower bass pattern to remaining old patterns
+- [ ] Reassign Reeverb automation to remaining Reverb plugin
+- [ ] New transition effects
 - [ ] Remastering
