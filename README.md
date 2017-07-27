@@ -39,7 +39,7 @@ There are two files, one works on windows and the other in mac, I changed OS dur
 - [x] Add drums before the drop
 - [x] Update presets of noise
 - [x] Assign new kick to old patterns 
-- [ ] Copy lower bass pattern to remaining old patterns
+- [x] Copy lower bass pattern to remaining old patterns
 - [ ] Reassign Reeverb automation to remaining Reverb plugin
 - [ ] New transition effects
 - [ ] Remastering
