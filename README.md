@@ -38,7 +38,7 @@ There are two files, one works on windows and the other in mac, I changed OS dur
 - [x] Rework the transitions
 - [x] Add drums before the drop
 - [x] Update presets of noise
-- [ ] Assign new kick to old patterns 
+- [x] Assign new kick to old patterns 
 - [ ] Copy lower bass pattern to remaining old patterns
 - [ ] Reassign Reeverb automation to remaining Reverb plugin
 - [ ] New transition effects
