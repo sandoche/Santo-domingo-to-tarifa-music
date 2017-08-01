@@ -1,6 +1,10 @@
- # DR-HIT
+ # Santo Domingo to Tarifa
 Music made in Dominican Republic, a tropical house with merengue beats.
 There are two files, one works on windows and the other in mac, I changed OS during this project, the latest version is the MainWin.flp.
+
+## More
+* Read about how I made it in one month: https://medium.com/learning-lab/how-i-learnt-music-production-and-produced-a-song-in-one-month-99abcdb7d224
+* Find it in Soundcloud: https://soundcloud.com/sandoche/santo-domingo-to-tarifa
 
 ## To do
 
@@ -21,7 +25,7 @@ There are two files, one works on windows and the other in mac, I changed OS dur
 - [x] Update structure
 - [x] Add transitions
 - [x] Add effects
-- [x] Add automations
+- [x] Add automations
 - [x] Equalize elements
 - [x] Check with Dorian
 - [x] Copy all the patterns
